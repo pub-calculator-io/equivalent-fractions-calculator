@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Equivalent Fractions Calculator](https://www.calculator.io/equivalent-fractions-calculator/ "Equivalent Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_equivalent_fractions_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Equivalent Fractions Calculator to the sidebar through the `Appearance -> Widgets -> Equivalent Fractions Calculator` menu in WordPress.
+* Add the shortcode `[ci_equivalent_fractions_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_equivalent_fractions_calculator(); ?>` to your template where you would like the Equivalent Fractions Calculator to appear.
 
 == Screenshots ==
