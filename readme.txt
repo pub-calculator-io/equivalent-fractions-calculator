@@ -13,6 +13,8 @@ Equivalent fractions calculator to find equivalent fractions of positive and neg
 
 Equivalent fractions calculator to find equivalent fractions of positive and negative mixed numbers, integers, proper and improper fractions.
 
+[Equivalent Fractions Calculator Homepage](https://www.calculator.io/equivalent-fractions-calculator/ "Equivalent Fractions Calculator Homepage")
+
 __Shortcode__
 
 Use the Equivalent Fractions Calculator shortcode:
