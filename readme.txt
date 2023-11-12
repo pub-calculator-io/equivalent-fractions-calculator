@@ -13,34 +13,35 @@ Equivalent fractions calculator to find equivalent fractions of positive and neg
 
 Equivalent fractions calculator to find equivalent fractions of positive and negative mixed numbers, integers, proper and improper fractions.
 
-[Equivalent Fractions Calculator Homepage](https://www.calculator.io/equivalent-fractions-calculator/ "Equivalent Fractions Calculator Homepage")
+[https://www.calculator.io/equivalent-fractions-calculator/](https://www.calculator.io/equivalent-fractions-calculator/)
 
-__Shortcode__
-
-Use the Equivalent Fractions Calculator shortcode:
+__Equivalent Fractions Calculator Shortcode__
 
 `[ci_equivalent_fractions_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_equivalent_fractions_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Equivalent Fractions Calculator](https://www.calculator.io/equivalent-fractions-calculator/ "Equivalent Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Equivalent Fractions Calculator Usage ==
+
 * Add the shortcode `[ci_equivalent_fractions_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_equivalent_fractions_calculator(); ?>` to your template where you would like the Equivalent Fractions Calculator to appear.
 
 == Screenshots ==
+
 1. The Equivalent Fractions Calculator Input Form.
 2. The Equivalent Fractions Calculator Calculation Results.
+
+== Libraries used in Equivalent Fractions Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
