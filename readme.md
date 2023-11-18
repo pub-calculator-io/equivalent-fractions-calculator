@@ -1,4 +1,4 @@
-# Equivalent Fractions Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Equivalent Fractions Calculator Widget for WordPress
 
 Equivalent fractions calculator to find equivalent fractions of positive and negative mixed numbers, integers, proper and improper fractions.
 
