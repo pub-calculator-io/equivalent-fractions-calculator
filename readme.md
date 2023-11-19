@@ -7,7 +7,7 @@ Equivalent fractions calculator to find equivalent fractions of positive and neg
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/equivalent-fractions-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /equivalent-fractions-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Equivalent Fractions Calculator](https://www.calculator.io/equivalent-fractions-calculator/ "Equivalent Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 

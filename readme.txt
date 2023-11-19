@@ -1,4 +1,4 @@
-=== Equivalent Fractions Calculator ===
+=== Equivalent Fractions Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: equivalent fractions calculator, find equivalent fractions, simplify fractions tool, fraction comparison calculator, common denominator finder, equivalent ratio calculator, fraction simplifier, math fractions calculator, equivalent fractions solver, teaching fractions tool
 Requires at least: 5.0
