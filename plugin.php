@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Equivalent Fractions Calculator by www.calculator.io
+Plugin Name: CI Equivalent fractions calculator
 Plugin URI: https://www.calculator.io/equivalent-fractions-calculator/
 Description: Equivalent fractions calculator to find equivalent fractions of positive and negative mixed numbers, integers, proper and improper fractions.
 Version: 1.0.0
