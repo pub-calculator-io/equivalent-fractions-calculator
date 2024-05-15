@@ -3,7 +3,6 @@
 Equivalent fractions calculator to find equivalent fractions of positive and negative mixed numbers, integers, proper and improper fractions.
 
 ![Equivalent Fractions Calculator Input Form](/assets/images/screenshot-1.png "Equivalent Fractions Calculator Input Form")
-![Equivalent Fractions Calculator Calculation Results](/assets/images/screenshot-2.png "Equivalent Fractions Calculator Calculation Results")
 
 ## Installation
 

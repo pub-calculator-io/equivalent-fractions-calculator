@@ -1,10 +1,10 @@
 function calculate(){
   
   // 1. init & validate
-  const num = input.get('fraction_number_top').integer().raw();
-  const denom = input.get('fraction_number_bottom').natural().raw();
+  const num = input.get('fraction_number_num').integer().raw();
+  const denom = input.get('fraction_number_denom').natural().raw();
   if(num == '0') {
-    input.error('fraction_number_top', 'fraction_number_top must be a non zero value');
+    input.error('fraction_number_num', 'fraction_number_num must be a non zero value');
   } 
   if(!input.valid()) return;
 

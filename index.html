@@ -32,9 +32,10 @@
                 			
                 		
                 			<div class="input-field input-field--fraction col">
-                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" placeholder="0" id="fraction_number_top" value="1"  />
-                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" placeholder="0" id="fraction_number_bottom" value="5"  />
+                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" id="fraction_number_num" value="1"  />
+                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" id="fraction_number_denom" value="5"  />
                 			</div>
+                		
                 		</label>	</div>
                 </div>
                 
@@ -43,13 +44,16 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -64,17 +68,16 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<div class="result-table__wrapper">
 		<table class="result-table result-table--fully">
 			<thead class="dark">
 				<tr>
-					<th class="dark indigo" colspan="9">Equivalent fractions</th>
+					<th class="dark indigo" colspan="9">Equivalent Fractions</th>
 				</tr>
 			</thead>
-			<tbody id="result">
+			<tbody id="result" class="animate">
 				<tr>
 					<th>1/5</th>
 					<td>2/10</td>
